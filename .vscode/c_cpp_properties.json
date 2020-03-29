@@ -12,7 +12,9 @@
                 "C:\\Program Files (x86)\\Arduino\\hardware\\tools\\**",
                 "C:\\Program Files (x86)\\Arduino\\libraries\\**",
                 "C:\\Users\\live\\Documents\\Arduino\\hardware\\tools\\**",
-                "C:\\Users\\live\\Documents\\Arduino\\libraries\\**"
+                "C:\\Users\\live\\Documents\\Arduino\\libraries\\**",
+                "C:\\Users\\mattheww\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\**",
+                "C:\\Users\\mattheww\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**"
             ],
             "forcedInclude": [],
             "intelliSenseMode": "clang-x64",
