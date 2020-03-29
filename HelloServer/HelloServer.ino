@@ -16,8 +16,7 @@ int led_state = HIGH;
 void handleRoot() {
   led_state != led_state;
   digitalWrite(led, led_state);
-  server.send(200, "text/plain", "hello from esp8266!");
-  //digitalWrite(led, 0);
+  server.send(200, "text/plain", "hello from M5StickC!");
 }
 
 void handleNotFound() {
