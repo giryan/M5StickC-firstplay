@@ -60,7 +60,7 @@ void setup(void) {
   M5.Lcd.print("IP address: ");
   M5.Lcd.println(WiFi.localIP());
 
-  if (MDNS.begin("esp32")) {
+  if (MDNS.begin("m5stickC")) {
     M5.Lcd.println("MDNS responder started");
   }
 
